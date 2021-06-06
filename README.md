@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Thomas Ortiz
+- 👀 I’m interested in web development especially around Angular development
+- 🌱 I’m currently learning effectiveness in a Team Lead position and increasing my Angular knowledge 
+- 💞️ I’m looking to collaborate.
+- 📫 How to reach me: thomasortiz95@gmail.com
+- 😄 Pronouns: ... He/Him
